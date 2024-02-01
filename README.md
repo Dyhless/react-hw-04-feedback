@@ -16,16 +16,6 @@ as a starting point for your application.
 
 ### Feedback Widget
 
-- `The goit-react-hw-04-feedback` repository has been created.
+- `react-hw-04-feedback` repository has been created.
 - Refactor the "Feedback Widget" task code from the second module using
   React-hooks.
-
-### Contact Book
-
-- The `goit-react-hw-04-phonebook` repository has been created.
-- Refactor the "Contact Book" task code from the third module using React-hooks.
-
-### Image Search
-
-- The `goit-react-hw-04-images` repository has been created.
-- Refactor the "Image Search" task from module 3 using React-hooks.
